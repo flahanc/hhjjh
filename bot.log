@@ -1,0 +1,227 @@
+2025-06-23 11:54:06,558 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 11:54:06,558 - bot - INFO - Запуск Discord бота...
+2025-06-23 11:54:06,558 - discord.client - INFO - logging in using static token
+2025-06-23 11:54:08,497 - bot - ERROR - Неожиданная ошибка при запуске бота: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:54:08,499 - bot - INFO - Бот отключен
+2025-06-23 11:54:08,499 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:54:08,500 - __main__ - ERROR - Application failed to start: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:54:25,621 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 11:54:25,622 - bot - INFO - Запуск Discord бота...
+2025-06-23 11:54:25,622 - discord.client - INFO - logging in using static token
+2025-06-23 11:54:26,324 - bot - ERROR - Неожиданная ошибка при запуске бота: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:54:26,326 - bot - INFO - Бот отключен
+2025-06-23 11:54:26,326 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:54:26,327 - __main__ - ERROR - Application failed to start: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:56:00,053 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 11:56:00,053 - bot - INFO - Запуск Discord бота...
+2025-06-23 11:56:00,053 - discord.client - INFO - logging in using static token
+2025-06-23 11:56:00,591 - bot - ERROR - Неожиданная ошибка при запуске бота: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:56:00,593 - bot - INFO - Бот отключен
+2025-06-23 11:56:00,593 - __main__ - ERROR - Fatal error occurred: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 11:56:00,594 - __main__ - ERROR - Application failed to start: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-23 12:04:27,298 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:04:27,300 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:04:27,305 - discord.client - INFO - logging in using static token
+2025-06-23 12:04:27,332 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:04:27,333 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:04:27,333 - discord.client - INFO - logging in using static token
+2025-06-23 12:04:27,909 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8be1dae14768f9a0cbd61fa88234bf05).
+2025-06-23 12:04:27,941 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13e70b04ce357edfb095f5ef5e7e32f1).
+2025-06-23 12:04:29,925 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:04:29,925 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:04:29,926 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:04:29,926 - bot - INFO - Количество участников: 33
+2025-06-23 12:04:29,926 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:04:29,955 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:04:29,955 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:04:29,955 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:04:29,956 - bot - INFO - Количество участников: 33
+2025-06-23 12:04:29,956 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:10:36,841 - bot - INFO - Участник покинул сервер: Lacuna (ID: 740585412560420914)
+2025-06-23 12:10:36,852 - bot - INFO - Участник покинул сервер: Lacuna (ID: 740585412560420914)
+2025-06-23 12:10:37,127 - bot - INFO - Отправлено прощание для Lacuna
+2025-06-23 12:10:37,129 - bot - INFO - Отправлено прощание для Lacuna
+2025-06-23 12:11:33,134 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:11:33,134 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:11:33,134 - discord.client - INFO - logging in using static token
+2025-06-23 12:11:33,683 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cff86039bde5d96b1794e60679e76126).
+2025-06-23 12:11:35,712 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:11:35,713 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:11:35,714 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:11:35,714 - bot - INFO - Количество участников: 32
+2025-06-23 12:11:35,714 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:13:23,927 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:13:23,927 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:13:23,927 - discord.client - INFO - logging in using static token
+2025-06-23 12:13:24,582 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a2ba38113d4afad154892937ecb26592).
+2025-06-23 12:13:26,599 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:13:26,599 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:13:26,599 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:13:26,599 - bot - INFO - Количество участников: 32
+2025-06-23 12:13:26,599 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:14:06,078 - bot - INFO - Участник покинул сервер: Xenon (ID: 416358583220043796)
+2025-06-23 12:14:06,339 - bot - INFO - Отправлено прощание для Xenon
+2025-06-23 12:14:38,008 - bot - INFO - Новый участник присоединился: Xenon (ID: 416358583220043796)
+2025-06-23 12:14:38,281 - bot - INFO - Отправлено приветствие для Xenon
+2025-06-23 12:16:16,601 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:16:16,601 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:16:16,601 - discord.client - INFO - logging in using static token
+2025-06-23 12:16:17,079 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 09f6880526016437d52369bda7444b00).
+2025-06-23 12:16:19,103 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:16:19,104 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:16:19,104 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:16:19,104 - bot - INFO - Количество участников: 32
+2025-06-23 12:16:19,104 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:16:45,162 - bot - INFO - Участник покинул сервер: Xenon (ID: 416358583220043796)
+2025-06-23 12:16:45,449 - bot - INFO - Отправлено прощание для Xenon
+2025-06-23 12:16:58,870 - bot - INFO - Новый участник присоединился: Xenon (ID: 416358583220043796)
+2025-06-23 12:16:59,151 - bot - INFO - Отправлено приветствие для Xenon
+2025-06-23 12:24:04,535 - bot - INFO - Участник покинул сервер: Xenon (ID: 416358583220043796)
+2025-06-23 12:24:04,816 - bot - INFO - Отправлено прощание для Xenon
+2025-06-23 12:24:16,915 - bot - INFO - Новый участник присоединился: Xenon (ID: 416358583220043796)
+2025-06-23 12:24:17,283 - bot - INFO - Отправлено приветствие для Xenon
+2025-06-23 12:26:19,089 - bot - INFO - Участник покинул сервер: Xenon (ID: 416358583220043796)
+2025-06-23 12:26:19,438 - bot - INFO - Отправлено прощание для Xenon
+2025-06-23 12:26:25,761 - bot - INFO - Новый участник присоединился: Xenon (ID: 416358583220043796)
+2025-06-23 12:26:25,941 - bot - INFO - Отправлено приветствие для Xenon
+2025-06-23 12:27:34,106 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:27:34,106 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:27:34,106 - discord.client - INFO - logging in using static token
+2025-06-23 12:27:34,625 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 00eb1d1a9e396bc17f708157dba08a88).
+2025-06-23 12:27:36,642 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:27:36,642 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:27:36,642 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:27:36,643 - bot - INFO - Количество участников: 32
+2025-06-23 12:27:36,643 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:27:53,537 - bot - INFO - Участник покинул сервер: Xenon (ID: 416358583220043796)
+2025-06-23 12:27:53,826 - bot - INFO - Отправлено прощание для Xenon
+2025-06-23 12:28:02,146 - bot - INFO - Новый участник присоединился: Xenon (ID: 416358583220043796)
+2025-06-23 12:28:02,424 - bot - INFO - Отправлено приветствие для Xenon
+2025-06-23 12:28:37,789 - bot - INFO - Участник покинул сервер: Tickets v2 (ID: 1325579039888511056)
+2025-06-23 12:28:38,090 - bot - INFO - Отправлено прощание для Tickets v2
+2025-06-23 12:32:18,109 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:32:18,109 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:32:18,110 - discord.client - INFO - logging in using static token
+2025-06-23 12:32:18,738 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 41ff1edbf9be0d12da37bee1e1d1620a).
+2025-06-23 12:32:20,757 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:32:20,757 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:32:20,757 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:32:20,757 - bot - INFO - Количество участников: 31
+2025-06-23 12:32:20,758 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:32:21,245 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 12:32:21,245 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 12:32:59,834 - support_system - INFO - Создан тикет от jarvir (Minecraft: Оо)
+2025-06-23 12:33:22,032 - support_system - INFO - Тикет взят в работу пользователем jarvir
+2025-06-23 12:38:52,142 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 12:38:52,142 - bot - INFO - Запуск Discord бота...
+2025-06-23 12:38:52,142 - discord.client - INFO - logging in using static token
+2025-06-23 12:38:52,826 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f3f366c57fb6d0acf915ff1427323489).
+2025-06-23 12:38:54,844 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 12:38:54,845 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 12:38:54,847 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 12:38:54,847 - bot - INFO - Количество участников: 31
+2025-06-23 12:38:54,847 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 12:38:55,645 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 12:38:55,645 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 12:39:48,439 - support_system - INFO - Создан приватный тикет от jarvir (Minecraft: Ор) в канале тикет-jarvir-1386687180058918962
+2025-06-23 12:40:44,227 - support_system - INFO - Тикет взят в работу пользователем jarvir
+2025-06-23 12:41:01,483 - support_system - INFO - Тикет закрыт пользователем jarvir, канал: 🔒-закрыт-jarvir-1386687180058918962
+2025-06-23 12:41:42,317 - support_system - INFO - Создан приватный тикет от jarvir (Minecraft: Оо) в канале тикет-jarvir-1386687655932199053
+2025-06-23 12:41:53,072 - support_system - INFO - Тикет закрыт пользователем jarvir, канал: 🔒-закрыт-jarvir-1386687655932199053
+2025-06-23 13:11:34,600 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 13:11:34,602 - bot - INFO - Запуск Discord бота...
+2025-06-23 13:11:34,602 - discord.client - INFO - logging in using static token
+2025-06-23 13:11:36,417 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1c7bc1a68b6833ae8748cc2f194db8de).
+2025-06-23 13:11:38,426 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 13:11:38,427 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 13:11:38,427 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 13:11:38,427 - bot - INFO - Количество участников: 31
+2025-06-23 13:11:38,427 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 13:11:39,472 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 13:11:39,472 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 13:13:07,766 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 1c7bc1a68b6833ae8748cc2f194db8de.
+2025-06-23 13:13:25,413 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 13:13:25,413 - bot - INFO - Запуск Discord бота...
+2025-06-23 13:13:25,413 - discord.client - INFO - logging in using static token
+2025-06-23 13:13:26,076 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d6538901fb2f81bb94f2f0c01ff6c16).
+2025-06-23 13:13:28,114 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 13:13:28,114 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 13:13:28,114 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 13:13:28,114 - bot - INFO - Количество участников: 31
+2025-06-23 13:13:28,115 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 13:13:28,665 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 13:13:28,665 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 13:13:29,006 - admin_applications - INFO - Система заявок в администрацию Minecraft настроена в канале: 📝・заявка-в-администрацию
+2025-06-23 13:13:29,006 - bot - INFO - Система заявок в администрацию Minecraft настроена
+2025-06-23 13:13:29,358 - admin_applications - INFO - Система заявок в администрацию Discord настроена в канале: 📝・заявка-в-discord-админы
+2025-06-23 13:13:29,359 - bot - INFO - Система заявок в администрацию Discord настроена
+2025-06-23 13:14:34,214 - admin_applications - INFO - Подана заявка в администрацию Minecraft от jarvir (ник: Dd)
+2025-06-23 13:15:07,939 - admin_applications - INFO - Подана заявка в администрацию Discord от jarvir (ник: Cd)
+2025-06-23 13:15:19,942 - admin_applications - INFO - Заявка в администрацию minecraft взята на рассмотрение пользователем jarvir
+2025-06-23 13:15:35,499 - admin_applications - INFO - Заявка в администрацию minecraft принята пользователем jarvir
+2025-06-23 13:15:55,001 - admin_applications - INFO - Заявка в администрацию discord принята пользователем jarvir
+2025-06-23 13:16:21,271 - admin_applications - INFO - Подана заявка в администрацию Minecraft от jarvir (ник: Dd)
+2025-06-23 13:16:28,462 - admin_applications - INFO - Заявка в администрацию minecraft отклонена пользователем jarvir
+2025-06-23 13:26:07,239 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 13:26:07,240 - bot - INFO - Запуск Discord бота...
+2025-06-23 13:26:07,240 - discord.client - INFO - logging in using static token
+2025-06-23 13:26:07,908 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 506fe53545943b6747e91f31abcebfa3).
+2025-06-23 13:26:10,053 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 13:26:10,053 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 13:26:10,053 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 13:26:10,053 - bot - INFO - Количество участников: 31
+2025-06-23 13:26:10,054 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 13:26:10,751 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 13:26:10,751 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 13:26:11,421 - admin_applications - INFO - Система заявок в администрацию Minecraft настроена в канале: 📝・заявка-в-администрацию
+2025-06-23 13:26:11,421 - bot - INFO - Система заявок в администрацию Minecraft настроена
+2025-06-23 13:26:11,962 - admin_applications - INFO - Система заявок в администрацию Discord настроена в канале: 📝・заявка-в-discord-админы
+2025-06-23 13:26:11,963 - bot - INFO - Система заявок в администрацию Discord настроена
+2025-06-23 13:26:11,963 - chat_activity - INFO - Система активности настроена для канала: 💭・чат
+2025-06-23 13:26:11,963 - bot - INFO - Система активности в чате настроена
+2025-06-23 13:27:09,341 - chat_activity - INFO - Добавлена реакция 😊
+2025-06-23 13:27:14,349 - chat_activity - INFO - Добавлена реакция 👏
+2025-06-23 13:27:18,034 - chat_activity - INFO - Добавлена реакция ❤️
+2025-06-23 13:27:18,964 - chat_activity - INFO - Добавлена реакция 🔥
+2025-06-23 13:27:25,954 - chat_activity - INFO - Добавлена реакция 😊
+2025-06-23 13:27:26,496 - chat_activity - INFO - Добавлена реакция 🎉
+2025-06-23 13:27:27,361 - chat_activity - INFO - Добавлена реакция ⭐
+2025-06-23 13:27:28,466 - chat_activity - INFO - Ответ на сообщение: Супер! 🔥
+2025-06-23 13:27:33,762 - chat_activity - INFO - Добавлена реакция 😄
+2025-06-23 13:27:38,970 - chat_activity - INFO - Ответ на сообщение: Круто!
+2025-06-23 13:28:41,674 - chat_activity - INFO - Добавлена реакция 👍 к сообщению
+2025-06-23 13:50:38,269 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 13:50:38,270 - bot - INFO - Запуск Discord бота...
+2025-06-23 13:50:38,271 - discord.client - INFO - logging in using static token
+2025-06-23 13:50:38,992 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 58fd6aa50c8094770e004eb508e394b5).
+2025-06-23 13:50:41,011 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 13:50:41,012 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 13:50:41,013 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 13:50:41,013 - bot - INFO - Количество участников: 31
+2025-06-23 13:50:41,013 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 13:50:41,681 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 13:50:41,681 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 13:50:42,318 - admin_applications - INFO - Система заявок в администрацию Minecraft настроена в канале: 📝・заявка-в-администрацию
+2025-06-23 13:50:42,320 - bot - INFO - Система заявок в администрацию Minecraft настроена
+2025-06-23 13:50:42,992 - admin_applications - INFO - Система заявок в администрацию Discord настроена в канале: 📝・заявка-в-discord-админы
+2025-06-23 13:50:42,992 - bot - INFO - Система заявок в администрацию Discord настроена
+2025-06-23 13:50:42,992 - chat_activity - INFO - Система активности настроена для канала: 💭・чат
+2025-06-23 13:50:42,993 - bot - INFO - Система активности в чате настроена
+2025-06-23 13:53:35,674 - chat_activity - INFO - Добавлена реакция 👌 к сообщению
+2025-06-23 14:15:32,080 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-23 14:15:32,082 - bot - INFO - Запуск Discord бота...
+2025-06-23 14:15:32,082 - discord.client - INFO - logging in using static token
+2025-06-23 14:15:32,990 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a52c849c43a07e827d86ada0e41581f5).
+2025-06-23 14:15:35,004 - bot - INFO - Limonericx#1823 подключился к Discord!
+2025-06-23 14:15:35,004 - bot - INFO - Bot ID: 1376548347095285872
+2025-06-23 14:15:35,005 - bot - INFO - Подключен к серверу: Limonericx (ID: 1375772175373566012)
+2025-06-23 14:15:35,005 - bot - INFO - Количество участников: 31
+2025-06-23 14:15:35,005 - bot - INFO - Канал приветствия найден: ⛈️・qq-bb (ID: 1385303735281914011)
+2025-06-23 14:15:35,693 - support_system - INFO - Система поддержки настроена в канале: 📝・вызвать-поддержку
+2025-06-23 14:15:35,693 - bot - INFO - Система тикетов технической поддержки настроена
+2025-06-23 14:15:36,305 - admin_applications - INFO - Система заявок в администрацию Minecraft настроена в канале: 📝・заявка-в-администрацию
+2025-06-23 14:15:36,305 - bot - INFO - Система заявок в администрацию Minecraft настроена
+2025-06-23 14:15:36,885 - admin_applications - INFO - Система заявок в администрацию Discord настроена в канале: 📝・заявка-в-discord-админы
+2025-06-23 14:15:36,885 - bot - INFO - Система заявок в администрацию Discord настроена
+2025-06-23 14:15:36,885 - chat_activity - INFO - Система активности настроена для канала: 💭・чат
+2025-06-23 14:15:36,885 - bot - INFO - Система активности в чате настроена
